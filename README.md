@@ -39,10 +39,10 @@ Extent Report is used to get test result.
 - Extend Report
 - Hooks
 
-# Report Screenshot
+# Screenshot of Execution Report
 Please find the Screenshot of the execution Report in the Git folder. There are two screeshot available in the link ie. Sceenshot1 and Screenshot2
 Please find below the link for same.
-link - 
+link - https://github.com/harshitwadaskar007/WebAutomationAssignment
 
 
 
