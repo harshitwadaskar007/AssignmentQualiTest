@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAutomationAssignment", "WebAutomationAssignment\WebAutomationAssignment.csproj", "{7678CB2F-D059-4CAF-85AB-E0F2E9DE782E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7678CB2F-D059-4CAF-85AB-E0F2E9DE782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7678CB2F-D059-4CAF-85AB-E0F2E9DE782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7678CB2F-D059-4CAF-85AB-E0F2E9DE782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7678CB2F-D059-4CAF-85AB-E0F2E9DE782E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81773C93-D125-4217-895D-80C823E71682}
+	EndGlobalSection
+EndGlobal
