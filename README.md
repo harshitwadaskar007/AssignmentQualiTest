@@ -47,6 +47,15 @@ Please find below the link for same.
 
 link - https://github.com/harshitwadaskar007/WebAutomationAssignment
 
+# Improvement Points
+
+- Selenium Wait - Implementation of Implicit or Fluent Wait
+- Logger Library - Can be implement
+- Reporting - Can be upgrade to get each and every logs of every assertions, validations and verifications
+- Hooks - Can be improve , by adding some after Feature or Tear down Annotations
+- Tags - can imrove by adding tags to featurs or step class in order to istric the usage
+- Folder Stucture - Can be imrove fepending on our requirement
+
 
 
  
